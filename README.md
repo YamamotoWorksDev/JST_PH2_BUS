@@ -1,5 +1,10 @@
-# JST_PH2_BUS
-This module splits power from a 2-pin PH connector into four outputs. It includes an ideal diode (LM66100) to provide reverse-polarity protection on the input connector and to block reverse current from the outputs back to the input.
+# JST PH2 BUS Module
+
+This module splits power from a 2-pin PH connector into four outputs.  
+It includes an ideal diode (LM66100) to provide reverse-polarity protection on the input connector and to block reverse current from the outputs back to the input.
+
+## How to buy
+Yamamoto Works Ltd. Online Store
 
 ## Specification
 - IO: 1 Input and 4 Outputs
@@ -8,6 +13,8 @@ This module splits power from a 2-pin PH connector into four outputs. It include
 
 ## Size
 <img width="1476" height="1415" alt="image" src="https://github.com/user-attachments/assets/48ad0205-3451-406f-809a-f0456810dd99" />
+
+## Photo
 
 ## License
 The hardware design files in this repository are licensed under the
