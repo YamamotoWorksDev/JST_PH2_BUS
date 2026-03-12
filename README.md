@@ -8,6 +8,8 @@ It includes an ideal diode (LM66100) to provide reverse-polarity protection on t
 
 ## Specification
 - IO: 1 Input and 4 Outputs
+- Input voltage range: 1.5–5.5(V)
+- Maximum current: 1.5(A)
 - Connector: JST PH2(S2B-PH-K-S(LF)(SN))
 - Ideal Diode: [LM66100QDCKRQ1](https://www.ti.com/product/ja-jp/LM66100-Q1/part-details/LM66100QDCKRQ1)
 
