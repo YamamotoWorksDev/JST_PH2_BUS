@@ -4,7 +4,8 @@ This module splits power from a 2-pin PH connector into four outputs.
 It includes an ideal diode (LM66100) to provide reverse-polarity protection on the input connector and to block reverse current from the outputs back to the input.
 
 ## How to buy
-[Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/138263232)
+- [Tindie(International)](https://www.tindie.com/products/yamamotoworks/ph2-bus-module/)
+- [BASE(Japan)](https://miyworks.base.shop/items/138263232)
 
 ## Specification
 - IO: 1 Input and 4 Outputs
